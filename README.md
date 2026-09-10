@@ -1,4 +1,4 @@
-# 🚀 Siemens Data Science Master — Virtual Internship
+# 🚀 Siemens Data Science Master — Summer Internship Audit
 
 <p align="center">
 
